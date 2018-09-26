@@ -1,0 +1,36 @@
+
+{
+    "dresses":
+    [
+        {
+            "id":1,
+            "name":"Dress 1",
+            "cost":"10000 UAH",
+            "made":"china"
+        },
+        {
+            "id":2,
+            "name":"Dress 2",
+            "cost":"5000 UAH",
+            "made":"china"
+        },
+        {
+            "id":3,
+            "name":"Dress 3",
+            "cost":"20000 UAH",
+            "made":"china"
+        },
+        {
+            "id":4,
+            "name":"Dress 4",
+            "cost":"16000 UAH",
+            "made":"china"
+        },
+        {
+            "id":5,
+            "name":"Dress 5",
+            "cost":"8000 UAH",
+            "made":"china"
+        }
+    ]
+}
